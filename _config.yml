@@ -1,0 +1,28 @@
+title: 即万AI工具导航
+description: 收录1000+国内外优质AI工具的专业导航平台
+url: https://jiwanai.com
+baseurl: /ai-tools-directory
+
+author:
+  name: 即万AI
+  url: https://jiwanai.com
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+navigation:
+  - title: 首页
+    url: /
+  - title: AI写作
+    url: ai-writing
+  - title: AI视频
+    url: ai-video
+  - title: AI设计
+    url: ai-design
+  - title: AI编程
+    url: ai-coding
+  - title: AI搜索
+    url: ai-search
+  - title: 工具对比
+    url: comparison
